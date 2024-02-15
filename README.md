@@ -1,9 +1,9 @@
-# composer update
+1- composer update
 
-## sail up or php artisan serve
+2- sail up or php artisan serve
 
-### cp .env.example .env
+3- cp .env.example .env
 
-#### sail npm i
+4-  sail npm i
 
-#### sail npm run dev
+5- sail npm run dev
